@@ -1,12 +1,6 @@
 ## Gruppo
 - Raffaele Cerizza 845512
 
-## Dataset
-- Il dataset si trova in ./dataset
-- In particolare i file del dataset originale sono:
-    - Grocery_and_Gourmet_Food_5.json;
-    - meta_Grocery_and_Gourmet_Food.json. 
-
 ## Notebooks
 - absa.ipynb: notebook per ottenere i risultati dell'aspect-based sentiment analysis; 
 - absa_colab.ipynb: notebook da eseguire su Google Colab per estrarre aspetti e sentimenti con PyABSA;
